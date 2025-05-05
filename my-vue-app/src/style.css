@@ -77,3 +77,38 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.dark-theme,
+.dark-theme body,
+.dark-theme #app,
+.dark-theme .el-container,
+.dark-theme .el-main {
+  background: #181818 !important;
+  color: #e0e0e0 !important;
+}
+
+.dark-theme .el-header {
+  background-color: #23272e !important;
+  color: #e0e0e0 !important;
+}
+
+.dark-theme .el-aside {
+  background-color: #23272e !important;
+}
+
+.dark-theme .el-card {
+  background-color: #23272e !important;
+  color: #e0e0e0 !important;
+}
+
+.dark-theme .el-menu,
+.dark-theme .el-menu-vertical {
+  background-color: #23272e !important;
+  color: #e0e0e0 !important;
+}
+
+.dark-theme .el-dropdown,
+.dark-theme .el-dropdown-menu {
+  background-color: #23272e !important;
+  color: #e0e0e0 !important;
+}

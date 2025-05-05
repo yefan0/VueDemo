@@ -67,4 +67,5 @@ const handleDelete = (row) => {
   justify-content: space-between;
   align-items: center;
 }
+
 </style>
